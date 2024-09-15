@@ -23,7 +23,8 @@ This Python program converts temperatures between Fahrenheit, Celsius, and Kelvi
 - Output
   - The program will display the original temperatures and their conversions in Celsius and Kelvin.
 
-# Example
+# Example I/O
 
 <div align="center">
-  <a href="https://mikhad.github.io/wordle/" ><img 
+  <img src="Img.jpg" alt="Example Input Output" style="width: 500px;">
+</div>
